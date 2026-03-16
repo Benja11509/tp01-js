@@ -4,11 +4,14 @@
   "description": "tp01",
   "license": "ISC",
   "author": "",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "Start01" : "node src\\ej01.js",
-    "Start02" : "node src\\ej02.js"
+    "Start02" : "node src\\ej02.js",
+    "Start03" : "node src\\ej03.js",
+    "Start04" : "node src\\ej04.js"
   }
+ 
 }
